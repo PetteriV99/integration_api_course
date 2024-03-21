@@ -1,0 +1,9 @@
+Kohdetiedoston muoto: JSON
+
+Rakenne:
+
+(taulukko)
+	- personName --> arvo
+	- salary
+		- monthly --> arvo (USD:nä)
+	- hireDate
